@@ -1,0 +1,699 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9997342228889465,
+            "Text": "a time",
+            "BeginOffset": 10,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999271631240845,
+            "Text": "a sweet little girl",
+            "BeginOffset": 27,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999322295188904,
+            "Text": "Her grandmother",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.995385468006134,
+            "Text": "a little cap",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999226331710815,
+            "Text": "red velvet",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.9902017712593079,
+            "Text": "all the time",
+            "BeginOffset": 192,
+            "EndOffset": 204
+        },
+        {
+            "Score": 0.9998170137405396,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 230,
+            "EndOffset": 252
+        },
+        {
+            "Score": 0.982672929763794,
+            "Text": "One day",
+            "BeginOffset": 255,
+            "EndOffset": 262
+        },
+        {
+            "Score": 0.9992942214012146,
+            "Text": "her mother",
+            "BeginOffset": 263,
+            "EndOffset": 273
+        },
+        {
+            "Score": 0.8284742832183838,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 295,
+            "EndOffset": 317
+        },
+        {
+            "Score": 0.9999523162841797,
+            "Text": "a piece",
+            "BeginOffset": 327,
+            "EndOffset": 334
+        },
+        {
+            "Score": 0.9998524188995361,
+            "Text": "cake",
+            "BeginOffset": 338,
+            "EndOffset": 342
+        },
+        {
+            "Score": 0.9998547434806824,
+            "Text": "a bottle",
+            "BeginOffset": 347,
+            "EndOffset": 355
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Text": "wine",
+            "BeginOffset": 359,
+            "EndOffset": 363
+        },
+        {
+            "Score": 0.999983549118042,
+            "Text": "your grandmother",
+            "BeginOffset": 378,
+            "EndOffset": 394
+        },
+        {
+            "Score": 0.99983811378479,
+            "Text": "the way",
+            "BeginOffset": 464,
+            "EndOffset": 471
+        },
+        {
+            "Score": 0.9996344447135925,
+            "Text": "the path",
+            "BeginOffset": 490,
+            "EndOffset": 498
+        },
+        {
+            "Score": 0.9994699358940125,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 502,
+            "EndOffset": 524
+        },
+        {
+            "Score": 0.9999669194221497,
+            "Text": "her mother",
+            "BeginOffset": 542,
+            "EndOffset": 552
+        },
+        {
+            "Score": 0.999359130859375,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 559,
+            "EndOffset": 581
+        },
+        {
+            "Score": 0.9999600648880005,
+            "Text": "the woods",
+            "BeginOffset": 590,
+            "EndOffset": 599
+        },
+        {
+            "Score": 0.9998464584350586,
+            "Text": "a wolf",
+            "BeginOffset": 600,
+            "EndOffset": 606
+        },
+        {
+            "Score": 0.9922599196434021,
+            "Text": "a wicked animal",
+            "BeginOffset": 645,
+            "EndOffset": 660
+        },
+        {
+            "Score": 0.9724512696266174,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 729,
+            "EndOffset": 751
+        },
+        {
+            "Score": 0.9935927391052246,
+            "Text": "the wolf",
+            "BeginOffset": 761,
+            "EndOffset": 769
+        },
+        {
+            "Score": 0.9988054633140564,
+            "Text": "my grandmother",
+            "BeginOffset": 776,
+            "EndOffset": 790
+        },
+        {
+            "Score": 0.9882271885871887,
+            "Text": "house",
+            "BeginOffset": 793,
+            "EndOffset": 798
+        },
+        {
+            "Score": 0.9996273517608643,
+            "Text": "your apron",
+            "BeginOffset": 837,
+            "EndOffset": 847
+        },
+        {
+            "Score": 0.994830846786499,
+            "Text": "the wolf",
+            "BeginOffset": 857,
+            "EndOffset": 865
+        },
+        {
+            "Score": 0.999629020690918,
+            "Text": "My grandmother",
+            "BeginOffset": 876,
+            "EndOffset": 890
+        },
+        {
+            "Score": 0.8383410573005676,
+            "Text": "some cake and wine",
+            "BeginOffset": 929,
+            "EndOffset": 947
+        },
+        {
+            "Score": 0.9912046194076538,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 961,
+            "EndOffset": 983
+        },
+        {
+            "Score": 0.9997969269752502,
+            "Text": "the beautiful flowers",
+            "BeginOffset": 1002,
+            "EndOffset": 1023
+        },
+        {
+            "Score": 0.9999747276306152,
+            "Text": "the woods",
+            "BeginOffset": 1047,
+            "EndOffset": 1056
+        },
+        {
+            "Score": 0.9998271465301514,
+            "Text": "a look",
+            "BeginOffset": 1084,
+            "EndOffset": 1090
+        },
+        {
+            "Score": 0.9688947200775146,
+            "Text": "the woods.\u00c2",
+            "BeginOffset": 1116,
+            "EndOffset": 1127
+        },
+        {
+            "Score": 0.9808508157730103,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 1130,
+            "EndOffset": 1152
+        },
+        {
+            "Score": 0.9998824000358582,
+            "Text": "her eyes",
+            "BeginOffset": 1160,
+            "EndOffset": 1168
+        },
+        {
+            "Score": 0.9994722008705139,
+            "Text": "the sunlight",
+            "BeginOffset": 1177,
+            "EndOffset": 1189
+        },
+        {
+            "Score": 0.9999507069587708,
+            "Text": "the trees",
+            "BeginOffset": 1207,
+            "EndOffset": 1216
+        },
+        {
+            "Score": 0.9998817443847656,
+            "Text": "the ground",
+            "BeginOffset": 1225,
+            "EndOffset": 1235
+        },
+        {
+            "Score": 0.9998076558113098,
+            "Text": "beautiful flowers",
+            "BeginOffset": 1253,
+            "EndOffset": 1270
+        },
+        {
+            "Score": 0.9911807775497437,
+            "Text": "a bouquet",
+            "BeginOffset": 1298,
+            "EndOffset": 1307
+        },
+        {
+            "Score": 0.9865376949310303,
+            "Text": "grandmother",
+            "BeginOffset": 1311,
+            "EndOffset": 1322
+        },
+        {
+            "Score": 0.9993228912353516,
+            "Text": "the woods",
+            "BeginOffset": 1373,
+            "EndOffset": 1382
+        },
+        {
+            "Score": 0.9983901977539062,
+            "Text": "flowers",
+            "BeginOffset": 1395,
+            "EndOffset": 1402
+        },
+        {
+            "Score": 0.9986240863800049,
+            "Text": "Each time",
+            "BeginOffset": 1404,
+            "EndOffset": 1413
+        },
+        {
+            "Score": 0.9966968894004822,
+            "Text": "an even more beautiful one",
+            "BeginOffset": 1460,
+            "EndOffset": 1486
+        },
+        {
+            "Score": 0.9497032761573792,
+            "Text": "a little way",
+            "BeginOffset": 1487,
+            "EndOffset": 1499
+        },
+        {
+            "Score": 0.9999054074287415,
+            "Text": "the woods",
+            "BeginOffset": 1558,
+            "EndOffset": 1567
+        },
+        {
+            "Score": 0.9996458888053894,
+            "Text": "the wolf",
+            "BeginOffset": 1573,
+            "EndOffset": 1581
+        },
+        {
+            "Score": 0.9995875358581543,
+            "Text": "the grandmother",
+            "BeginOffset": 1598,
+            "EndOffset": 1613
+        },
+        {
+            "Score": 0.9962712526321411,
+            "Text": "house",
+            "BeginOffset": 1616,
+            "EndOffset": 1621
+        },
+        {
+            "Score": 0.9998043179512024,
+            "Text": "the door",
+            "BeginOffset": 1637,
+            "EndOffset": 1645
+        },
+        {
+            "Score": 0.985779345035553,
+            "Text": "the Grandmother",
+            "BeginOffset": 1671,
+            "EndOffset": 1686
+        },
+        {
+            "Score": 0.9833944439888,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 1690,
+            "EndOffset": 1712
+        },
+        {
+            "Score": 0.9767813682556152,
+            "Text": "some cake and wine",
+            "BeginOffset": 1731,
+            "EndOffset": 1749
+        },
+        {
+            "Score": 0.8141193389892578,
+            "Text": "my dear \u00e2\u20ac",
+            "BeginOffset": 1764,
+            "EndOffset": 1774
+        },
+        {
+            "Score": 0.9993403553962708,
+            "Text": "the grandmother",
+            "BeginOffset": 1781,
+            "EndOffset": 1796
+        },
+        {
+            "Score": 0.9930168390274048,
+            "Text": "The wolf",
+            "BeginOffset": 1798,
+            "EndOffset": 1806
+        },
+        {
+            "Score": 0.9994825124740601,
+            "Text": "the latch",
+            "BeginOffset": 1815,
+            "EndOffset": 1824
+        },
+        {
+            "Score": 0.9998149871826172,
+            "Text": "the door",
+            "BeginOffset": 1830,
+            "EndOffset": 1838
+        },
+        {
+            "Score": 0.9999129176139832,
+            "Text": "the grandmother",
+            "BeginOffset": 1883,
+            "EndOffset": 1898
+        },
+        {
+            "Score": 0.9995660781860352,
+            "Text": "bed",
+            "BeginOffset": 1901,
+            "EndOffset": 1904
+        },
+        {
+            "Score": 0.9999825954437256,
+            "Text": "her clothes",
+            "BeginOffset": 1935,
+            "EndOffset": 1946
+        },
+        {
+            "Score": 0.9998438954353333,
+            "Text": "her cap",
+            "BeginOffset": 1969,
+            "EndOffset": 1976
+        },
+        {
+            "Score": 0.9999241232872009,
+            "Text": "his head",
+            "BeginOffset": 1980,
+            "EndOffset": 1988
+        },
+        {
+            "Score": 0.9999293684959412,
+            "Text": "her bed",
+            "BeginOffset": 2002,
+            "EndOffset": 2009
+        },
+        {
+            "Score": 0.9999545812606812,
+            "Text": "the curtains",
+            "BeginOffset": 2021,
+            "EndOffset": 2033
+        },
+        {
+            "Score": 0.9983938336372375,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 2046,
+            "EndOffset": 2068
+        },
+        {
+            "Score": 0.9998146295547485,
+            "Text": "the parlor",
+            "BeginOffset": 2094,
+            "EndOffset": 2104
+        },
+        {
+            "Score": 0.9995953440666199,
+            "Text": "Grandmother",
+            "BeginOffset": 2157,
+            "EndOffset": 2168
+        },
+        {
+            "Score": 0.9997511506080627,
+            "Text": "her cap",
+            "BeginOffset": 2190,
+            "EndOffset": 2197
+        },
+        {
+            "Score": 0.9997917413711548,
+            "Text": "her face",
+            "BeginOffset": 2215,
+            "EndOffset": 2223
+        },
+        {
+            "Score": 0.961735188961029,
+            "Text": "grandmother",
+            "BeginOffset": 2257,
+            "EndOffset": 2268
+        },
+        {
+            "Score": 0.8757162690162659,
+            "Text": "what big ears",
+            "BeginOffset": 2270,
+            "EndOffset": 2283
+        },
+        {
+            "Score": 0.7155371904373169,
+            "Text": "All the",
+            "BeginOffset": 2297,
+            "EndOffset": 2304
+        },
+        {
+            "Score": 0.9811900854110718,
+            "Text": "grandmother",
+            "BeginOffset": 2337,
+            "EndOffset": 2348
+        },
+        {
+            "Score": 0.8413693904876709,
+            "Text": "what big eyes",
+            "BeginOffset": 2350,
+            "EndOffset": 2363
+        },
+        {
+            "Score": 0.7775810360908508,
+            "Text": "All the",
+            "BeginOffset": 2377,
+            "EndOffset": 2384
+        },
+        {
+            "Score": 0.9708250761032104,
+            "Text": "grandmother",
+            "BeginOffset": 2416,
+            "EndOffset": 2427
+        },
+        {
+            "Score": 0.8366410732269287,
+            "Text": "what big hands",
+            "BeginOffset": 2429,
+            "EndOffset": 2443
+        },
+        {
+            "Score": 0.5749799013137817,
+            "Text": "All the better",
+            "BeginOffset": 2457,
+            "EndOffset": 2471
+        },
+        {
+            "Score": 0.9627736210823059,
+            "Text": "grandmother",
+            "BeginOffset": 2497,
+            "EndOffset": 2508
+        },
+        {
+            "Score": 0.9546998739242554,
+            "Text": "a horribly big mouth",
+            "BeginOffset": 2515,
+            "EndOffset": 2535
+        },
+        {
+            "Score": 0.6244691610336304,
+            "Text": "All the",
+            "BeginOffset": 2549,
+            "EndOffset": 2556
+        },
+        {
+            "Score": 0.9997932314872742,
+            "Text": "bed",
+            "BeginOffset": 2613,
+            "EndOffset": 2616
+        },
+        {
+            "Score": 0.9995864033699036,
+            "Text": "top",
+            "BeginOffset": 2628,
+            "EndOffset": 2631
+        },
+        {
+            "Score": 0.9985380172729492,
+            "Text": "poor Little Red Riding Hood",
+            "BeginOffset": 2635,
+            "EndOffset": 2662
+        },
+        {
+            "Score": 0.9999789595603943,
+            "Text": "the wolf",
+            "BeginOffset": 2691,
+            "EndOffset": 2699
+        },
+        {
+            "Score": 0.9998950958251953,
+            "Text": "this tasty bite",
+            "BeginOffset": 2713,
+            "EndOffset": 2728
+        },
+        {
+            "Score": 0.9997616410255432,
+            "Text": "bed",
+            "BeginOffset": 2751,
+            "EndOffset": 2754
+        },
+        {
+            "Score": 0.9997979402542114,
+            "Text": "A huntsman",
+            "BeginOffset": 2802,
+            "EndOffset": 2812
+        },
+        {
+            "Score": 0.999981701374054,
+            "Text": "the old woman",
+            "BeginOffset": 2861,
+            "EndOffset": 2874
+        },
+        {
+            "Score": 0.9999421238899231,
+            "Text": "a look",
+            "BeginOffset": 2920,
+            "EndOffset": 2926
+        },
+        {
+            "Score": 0.9999261498451233,
+            "Text": "the bed",
+            "BeginOffset": 2954,
+            "EndOffset": 2961
+        },
+        {
+            "Score": 0.999947190284729,
+            "Text": "the wolf",
+            "BeginOffset": 2972,
+            "EndOffset": 2980
+        },
+        {
+            "Score": 0.9995876550674438,
+            "Text": "such a long time",
+            "BeginOffset": 3010,
+            "EndOffset": 3026
+        },
+        {
+            "Score": 0.9999579787254333,
+            "Text": "the grandmother",
+            "BeginOffset": 3044,
+            "EndOffset": 3059
+        },
+        {
+            "Score": 0.824822187423706,
+            "Text": "\u00c2",
+            "BeginOffset": 3116,
+            "EndOffset": 3117
+        },
+        {
+            "Score": 0.9996934533119202,
+            "Text": "the huntsman",
+            "BeginOffset": 3127,
+            "EndOffset": 3139
+        },
+        {
+            "Score": 0.9999081492424011,
+            "Text": "a pair",
+            "BeginOffset": 3153,
+            "EndOffset": 3159
+        },
+        {
+            "Score": 0.9992122650146484,
+            "Text": "scissors",
+            "BeginOffset": 3163,
+            "EndOffset": 3171
+        },
+        {
+            "Score": 0.999923050403595,
+            "Text": "his belly",
+            "BeginOffset": 3185,
+            "EndOffset": 3194
+        },
+        {
+            "Score": 0.9987593293190002,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3197,
+            "EndOffset": 3219
+        },
+        {
+            "Score": 0.9997897148132324,
+            "Text": "the grandmother",
+            "BeginOffset": 3225,
+            "EndOffset": 3240
+        },
+        {
+            "Score": 0.9994840025901794,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3263,
+            "EndOffset": 3285
+        },
+        {
+            "Score": 0.9995574951171875,
+            "Text": "some large heavy stones",
+            "BeginOffset": 3294,
+            "EndOffset": 3317
+        },
+        {
+            "Score": 0.9997408390045166,
+            "Text": "the wolf",
+            "BeginOffset": 3331,
+            "EndOffset": 3339
+        },
+        {
+            "Score": 0.9954824447631836,
+            "Text": "belly",
+            "BeginOffset": 3342,
+            "EndOffset": 3347
+        },
+        {
+            "Score": 0.9999618530273438,
+            "Text": "the stones",
+            "BeginOffset": 3402,
+            "EndOffset": 3412
+        },
+        {
+            "Score": 0.9996883869171143,
+            "Text": "The three",
+            "BeginOffset": 3451,
+            "EndOffset": 3460
+        },
+        {
+            "Score": 0.9987086057662964,
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3485,
+            "EndOffset": 3507
+        },
+        {
+            "Score": 0.7730521559715271,
+            "Text": "home",
+            "BeginOffset": 3517,
+            "EndOffset": 3521
+        }
+    ],
+    "ResponseMetadata": {
+        "RequestId": "971eaef5-181c-474e-b306-7dbc0a044291",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "971eaef5-181c-474e-b306-7dbc0a044291",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "9806",
+            "date": "Fri, 01 Oct 2021 02:42:43 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}

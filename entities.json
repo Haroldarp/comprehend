@@ -1,0 +1,155 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8734074234962463,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 230,
+            "EndOffset": 252
+        },
+        {
+            "Score": 0.8954938650131226,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 295,
+            "EndOffset": 317
+        },
+        {
+            "Score": 0.5480717420578003,
+            "Type": "QUANTITY",
+            "Text": "wine",
+            "BeginOffset": 359,
+            "EndOffset": 363
+        },
+        {
+            "Score": 0.9592660665512085,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 502,
+            "EndOffset": 524
+        },
+        {
+            "Score": 0.9768026471138,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 559,
+            "EndOffset": 581
+        },
+        {
+            "Score": 0.950943648815155,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 729,
+            "EndOffset": 751
+        },
+        {
+            "Score": 0.7032566070556641,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 961,
+            "EndOffset": 983
+        },
+        {
+            "Score": 0.9824103116989136,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 1130,
+            "EndOffset": 1152
+        },
+        {
+            "Score": 0.9083291888237,
+            "Type": "QUANTITY",
+            "Text": "Each time",
+            "BeginOffset": 1404,
+            "EndOffset": 1413
+        },
+        {
+            "Score": 0.8851578235626221,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 1425,
+            "EndOffset": 1428
+        },
+        {
+            "Score": 0.9520787596702576,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 1690,
+            "EndOffset": 1712
+        },
+        {
+            "Score": 0.9713493585586548,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 2046,
+            "EndOffset": 2068
+        },
+        {
+            "Score": 0.5765324234962463,
+            "Type": "PERSON",
+            "Text": "Red Riding",
+            "BeginOffset": 2647,
+            "EndOffset": 2657
+        },
+        {
+            "Score": 0.2640434801578522,
+            "Type": "TITLE",
+            "Text": "Hood",
+            "BeginOffset": 2658,
+            "EndOffset": 2662
+        },
+        {
+            "Score": 0.7923223972320557,
+            "Type": "QUANTITY",
+            "Text": "a pair of scissors",
+            "BeginOffset": 3153,
+            "EndOffset": 3171
+        },
+        {
+            "Score": 0.9800217151641846,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3197,
+            "EndOffset": 3219
+        },
+        {
+            "Score": 0.9362013936042786,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3263,
+            "EndOffset": 3285
+        },
+        {
+            "Score": 0.9880223274230957,
+            "Type": "QUANTITY",
+            "Text": "three",
+            "BeginOffset": 3455,
+            "EndOffset": 3460
+        },
+        {
+            "Score": 0.6203564405441284,
+            "Type": "QUANTITY",
+            "Text": "them",
+            "BeginOffset": 3464,
+            "EndOffset": 3468
+        },
+        {
+            "Score": 0.9292095899581909,
+            "Type": "PERSON",
+            "Text": "Little Red Riding Hood",
+            "BeginOffset": 3485,
+            "EndOffset": 3507
+        }
+    ],
+    "ResponseMetadata": {
+        "RequestId": "78966eca-c6d5-4e5a-b778-d382e1898c8a",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "78966eca-c6d5-4e5a-b778-d382e1898c8a",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "2145",
+            "date": "Fri, 01 Oct 2021 02:42:43 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}

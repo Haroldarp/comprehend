@@ -1,0 +1,20 @@
+{
+    "Sentiment": "POSITIVE",
+    "SentimentScore": {
+        "Positive": 0.49248215556144714,
+        "Negative": 0.013308089226484299,
+        "Neutral": 0.2258879691362381,
+        "Mixed": 0.268321692943573
+    },
+    "ResponseMetadata": {
+        "RequestId": "ebcdd675-e417-4602-be8c-b460b6e7aaeb",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "ebcdd675-e417-4602-be8c-b460b6e7aaeb",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "161",
+            "date": "Fri, 01 Oct 2021 02:42:43 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
